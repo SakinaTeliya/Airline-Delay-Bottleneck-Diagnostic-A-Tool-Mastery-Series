@@ -34,5 +34,14 @@ Source: [2015 Flight Delays and Cancellations](https://www.kaggle.com/datasets/u
 
 See [/excel/README.md](./excel/README.md) for full methodology and findings.
 
+## Part 2: SQL Analysis
+
+![Cascading Delay Analysis](./sql/screenshots/Cascading_Analysis_Part%20B.png)
+
+Traced delays at the individual aircraft level using window functions, quantified the cascading effect (a late landing inflated the next flight's average departure delay by ~11x), and diagnosed carrier consistency, airport/route bottlenecks, and time-of-day escalation patterns.
+
+See [/sql/README.md](./sql/README.md) for full methodology and findings.
+
+---
 ---
 *This README is updated as each part of the series is completed.*
