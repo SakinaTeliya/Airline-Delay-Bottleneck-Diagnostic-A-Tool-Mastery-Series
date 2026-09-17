@@ -25,8 +25,8 @@ Source: [2015 Flight Delays and Cancellations](https://www.kaggle.com/datasets/u
 |------|------|--------|------|
 | 1 | Excel | ✅ Complete | [/excel](./excel) |
 | 2 | SQL | ✅ Complete | [/sql](./sql) |
-| 3 | Power BI | 🔲 In Progress | [/powerbi](./powerbi) |
-| 4 | Python | 🔲 Planned | [/python](./python) |
+| 3 | Power BI | ✅ Complete | [/powerbi](./powerbi) |
+| 4 | Python | 🔲 In Progress | [/python](./python) |
 
 ## Part 1: Excel Dashboard
 
@@ -41,6 +41,14 @@ See [/excel/README.md](./excel/README.md) for full methodology and findings.
 Traced delays at the individual aircraft level using window functions, quantified the cascading effect (a late landing inflated the next flight's average departure delay by ~11x), and diagnosed carrier consistency, airport/route bottlenecks, and time-of-day escalation patterns.
 
 See [/sql/README.md](./sql/README.md) for full methodology and findings.
+
+## Part 3: Power BI Dashboard
+
+![Power BI Dashboard](./powerbi/screenshots/Executive_Summary.png)
+
+Built a 5-page interactive dashboard (plus a carrier-level drill-through page) connected live to the MySQL database — executive KPIs, carrier performance with route-level drill-through, a geographic delay-severity map, a cascading-delay visualization tracing individual aircraft, and a live What-If simulator with a dynamic delay-threshold parameter.
+
+See [/powerbi/README.md](./powerbi/README.md) for full methodology and findings.
 
 ---
 ---
