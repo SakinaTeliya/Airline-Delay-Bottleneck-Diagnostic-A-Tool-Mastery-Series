@@ -26,7 +26,7 @@ Source: [2015 Flight Delays and Cancellations](https://www.kaggle.com/datasets/u
 | 1 | Excel | ✅ Complete | [/excel](./excel) |
 | 2 | SQL | ✅ Complete | [/sql](./sql) |
 | 3 | Power BI | ✅ Complete | [/powerbi](./powerbi) |
-| 4 | Python | 🔲 In Progress | [/python](./python) |
+| 4 | Python | ✅ Complete | [/python](./python) |
 
 ## Part 1: Excel Dashboard
 
