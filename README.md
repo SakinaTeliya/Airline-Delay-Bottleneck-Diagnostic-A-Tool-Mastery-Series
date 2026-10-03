@@ -52,11 +52,12 @@ See [/powerbi/README.md](./powerbi/README.md) for full methodology and findings.
 
 ## Part 4: Python Analysis
 
-![Delay Cascade Effect](./python/chaerts/charts/2_cascade_effect.png)
+![Delay Cascade Effect](./python/charts/charts/2_cascade_effect.png)
 
-Tested which delay patterns are statistically real and built a model to predict them: evening flights carry 2.65x the odds of delay versus morning flights, a late inbound aircraft lifts the next flight's delay rate from 9.9% to as high as 84.8%, and a random forest flags the riskiest 20% of flights, which hold 54% of all delays, validated on months it never saw.
+Tested which delay patterns are statistically real and built a model to predict them: evening flights carry 2.65x the odds of delay versus morning flights, a late inbound aircraft lifts the next flight's delay rate from 9.9% to as high as 84.8%, and a random forest flags the riskiest 20% of flights, which hold 54% of all delays, validated on months it never saw. 
 
-See [/python/README.md](./python/README.md) for full methodology and findings.
+see [/python/README.md](./python/README.md) for full methodology and findings.
+
 ---
 ---
 *This README is updated as each part of the series is completed.*
