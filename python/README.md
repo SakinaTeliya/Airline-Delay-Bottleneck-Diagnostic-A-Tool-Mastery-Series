@@ -54,4 +54,4 @@ Every null in the dataset has a documented reason:
 
 ## Series
 
-[Excel](../excel) | [SQL](../SQL) | [Power BI](../powerBI) | **Python**
+[Excel](../excel) | [SQL](../sql) | [Power BI](../powerbi) | **python**
