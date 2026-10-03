@@ -47,10 +47,10 @@ Every null in the dataset has a documented reason:
 
 ## Charts
 
-![Delay by hour](charts/1_delay_by_hour.png)
-![Cascade effect](charts/2_cascade_effect.png)
-![Cumulative gains](charts/3_cumulative_gains.png)
-![Feature importance](charts/4_feature_importance.png)
+![Delay by hour](charts/charts/1_delay_by_hour.png)
+![Cascade effect](charts/charts/2_cascade_effect.png)
+![Cumulative gains](charts/charts/3_cumulative_gains.png)
+![Feature importance](charts/charts/4_feature_importance.png)
 
 ## Series
 
